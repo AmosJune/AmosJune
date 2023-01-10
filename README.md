@@ -4,8 +4,7 @@ I am a full-stack developer conversant with both front and back-end technologies
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning to be a better developer. 
 - 📫 How to reach me: amosjune06@gmail.com 
 - 😄 Pronouns: He / Him 
 - ⚡ Fun fact: A coding agriculturist 
